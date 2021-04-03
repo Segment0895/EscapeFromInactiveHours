@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeFromInactiveHours", "EscapeFromInactiveHours\EscapeFromInactiveHours.csproj", "{55DF5BC1-C08F-4528-A753-4A0A8FA8CF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DF5BC1-C08F-4528-A753-4A0A8FA8CF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DF5BC1-C08F-4528-A753-4A0A8FA8CF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DF5BC1-C08F-4528-A753-4A0A8FA8CF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DF5BC1-C08F-4528-A753-4A0A8FA8CF62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D5F1CCA-A434-47E2-8BC0-BEA66473DF51}
+	EndGlobalSection
+EndGlobal
