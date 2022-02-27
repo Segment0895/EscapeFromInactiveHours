@@ -27,8 +27,8 @@ namespace EscapeFromInactiveHours
         private static void MyTimer_Elapsed(object sender, ElapsedEventArgs e)
         {
             var now = DateTime.Now;
-            int inicio = now.AddHours(-1).AddMinutes(-now.Minute).AddSeconds(-now.Second).Hour;
-            int fim = now.AddHours(8).AddMinutes(-now.Minute).AddSeconds(-now.Second).Hour;
+            int fim = now.AddHours(-1).AddMinutes(-now.Minute).AddSeconds(-now.Second).Hour;
+            int inicio = now.AddHours(8).AddMinutes(-now.Minute).AddSeconds(-now.Second).Hour;
             
 
             Console.Out.WriteLine();
